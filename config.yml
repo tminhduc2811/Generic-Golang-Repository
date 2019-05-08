@@ -1,0 +1,8 @@
+databaseName: ""
+databaseAddr: ""
+port: 3000
+languageCollection: "languages"
+objectCollection: "objects"
+placeCollection: "places"
+regionCollection: "regions"
+userCollection: "users"
