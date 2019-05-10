@@ -2,7 +2,7 @@
 
 ## Project structure
 ```
-|-- undefined
+|-- Generic-Golang-Repository
     |-- config.yml
     |-- main.go
     |-- README.md
